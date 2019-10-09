@@ -1,0 +1,29 @@
+
+
+    .main-container {
+        display: grid;
+        height: 100%;
+        grid-template-rows: 1fr 12fr 1fr;
+    } 
+/* 
+    .row-one,
+    .row-two,
+    .row-three {
+        display: grid;
+        grid-template-columns: 1fr 5fr 2fr;
+    } 
+    .row-one {
+        background: rgba(43, 216, 207, 0.664)
+    } 
+     .row-two {
+        background: rgba(0, 38, 255, 0.473);
+    } 
+
+     .row-three {
+        background: rgba(43, 216, 207, 0.664)
+    } 
+
+     .container-padding {
+        padding: 12px;
+        border: 1px dashed #000;
+    }  */

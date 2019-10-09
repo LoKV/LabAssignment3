@@ -1,0 +1,25 @@
+
+.row-two{
+    display: grid;
+    grid-template-columns: 1fr 5fr 2fr;
+} 
+
+.row-two {
+    background: rgba(0, 38, 255, 0.473);
+    height: 100%;
+
+} .table-one{
+    width: 100%;
+    border: 1px solid #CCC;
+}
+
+.table-one > tbody > tr > td{
+    
+    border: 1px solid #CCC;
+    min-height: 50px;
+    padding: .5em;
+}   
+
+.add-button {
+    font-size: bold;
+}
